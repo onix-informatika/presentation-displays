@@ -36,6 +36,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    namespace = "io.github.onix_informatika.presentation-displays"
 }
 
 dependencies {
